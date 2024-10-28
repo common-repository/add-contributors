@@ -1,0 +1,30 @@
+#contributor-box {
+	border: 1px solid #ccc;
+}
+
+#contributor-box h3 {
+	text-decoration: underline;
+	font-weight: bold;
+	margin: 10px;
+}
+
+
+#contributor-box ul {
+	list-style-type: none;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+
+.author-profile-card {
+	background: #fff;
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+.author-photo {
+	float: left;
+	text-align: left;
+	padding: 5px;
+}

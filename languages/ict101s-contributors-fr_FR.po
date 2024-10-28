@@ -1,0 +1,39 @@
+# Copyright (C) 2019 Babatope (Ben) Babajide
+# This file is distributed under the same license as the Add Contributors plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Add Contributors 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ict101s-contributors\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-07-23T21:02:58-04:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: ict101s-contributors\n"
+
+#. Plugin Name of the plugin
+msgid "Add Contributors"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://itcrackteam.com/101series/wordpress/plugins/ict101s-contributors"
+msgstr ""
+
+#. Description of the plugin
+msgid "Creates a metabox to select WordPress users to list as contributors in post."
+msgstr ""
+
+#. Author of the plugin
+msgid "Babatope (Ben) Babajide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://itcrackteam.com/ben"
+msgstr ""
+
+#: public/class-contributors-public.php:36
+msgid "Contributors"
+msgstr "contributeurs"
